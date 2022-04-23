@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi I'm Software Engineer. 👋
+
+### Languages
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+![C](https://img.shields.io/badge/-C-000?&logo=C)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
+![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
+![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
 
 <!--
 **muhammad-rahman647/muhammad-rahman647** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
