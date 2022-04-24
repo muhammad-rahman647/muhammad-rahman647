@@ -1,4 +1,4 @@
-### Hi I'm Muhammad Rahman & Software Engineer. 👋
+### Hi I'm Muhammad Rahman 👋
 
 ### Languages
 
