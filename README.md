@@ -1,4 +1,4 @@
-### Hi I'm Muhammad Rahman 👋 a full-stack software developer with 4+ years of experience in developing web applications using the MERN stack (MongoDB, Express, React, and Node.js). I have a passion for coding and a strong drive to continuously improve my skills and knowledge.
+### Hi I'm Muhammad Rahman 👋 a full-stack software developer with 4+ years of experience in developing web applications using the MERN, MEAN stack (MongoDB, Express, React, Angular, and Node.js). I have a passion for coding and a strong drive to continuously improve my skills and knowledge.
 
 **Skills and Experience**
 - Strong experience in the MERN stack, including MongoDB, Express, React, and Node.js.
