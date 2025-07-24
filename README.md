@@ -1,9 +1,15 @@
-### Hi I'm Muhammad Rahman 👋 a full-stack software developer with 4+ years of experience in developing web applications using the MERN, MEAN stack (MongoDB, Express, React, Angular, and Node.js). I have a passion for coding and a strong drive to continuously improve my skills and knowledge.
+### Hi I'm Muhammad Rahman 👋 
+
+A passionate **Full-Stack Software Engineer** with **5+ years of experience** building scalable web applications using the **MERN** and **MEAN** stacks. I specialize in crafting modern, responsive UIs and robust backend systems. I enjoy solving complex problems, integrating AI/LLM APIs, and constantly exploring new technologies.
 
 **Skills and Experience**
 - Strong experience in the MERN stack, including MongoDB, Express, React, and Node.js.
 - Proven track record of delivering high-quality, scalable, and secure web applications.
-- Knowledge of modern front-end technologies such as React, Redux, and CSS.
+- Built and maintained production apps used by 30K+ users with a focus on performance and accessibility  
+- Integrated **AI/LLM APIs** (OpenAI, LangChain, RAG, chat assistants) into customer-facing applications  
+- UI/UX-focused with hands-on work using **ShadcnUI**, **Ant Design (AntD)**, and **Material UI**  
+- Experience with **Firebase** for auth, Firestore, and cloud functions  
+- Knowledge of cloud deployment (AWS, Vercel) and DevOps tools (Docker, CI/CD, GitHub Actions)
 - Experience with RESTful API design and implementation.
 - Ability to work independently and as part of a team to meet project requirements and deadlines.
 
@@ -54,6 +60,12 @@
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
             alt="react" width="40" height="40" /> </a>
 </p>
+
+### 📫 How to reach me
+
+- Email: iamabdulrehman61@gmail.com  
+- GitHub: [github.com/muhammad-rahman647](https://github.com/muhammad-rahman647)  
+- LinkedIn: [linkedin.com/in/abdulrahman21](https://linkedin.com/in/abdulrahman218)
 
 <!--
 **muhammad-rahman647/muhammad-rahman647** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
