@@ -65,7 +65,7 @@ A passionate **Full-Stack Software Engineer** with **5+ years of experience** bu
 
 - Email: iamabdulrehman61@gmail.com  
 - GitHub: [github.com/muhammad-rahman647](https://github.com/muhammad-rahman647)  
-- LinkedIn: [linkedin.com/in/abdulrahman21](https://linkedin.com/in/abdulrahman218)
+- LinkedIn: [linkedin.com/in/abdulrahman218](https://linkedin.com/in/abdulrahman218)
 
 <!--
 **muhammad-rahman647/muhammad-rahman647** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
