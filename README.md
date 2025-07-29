@@ -1,4 +1,4 @@
-### Hi I'm Muhammad Rahman 👋 
+### Hi I'm Abdul Rehman 👋 
 
 A passionate **Full-Stack Software Engineer** with **5+ years of experience** building scalable web applications using the **MERN** and **MEAN** stacks. I specialize in crafting modern, responsive UIs and robust backend systems. I enjoy solving complex problems, integrating AI/LLM APIs, and constantly exploring new technologies.
 
